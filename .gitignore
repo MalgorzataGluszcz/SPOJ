@@ -396,3 +396,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+PTEST_Zadanie_probne/Build
+PTEST_Zadanie_probne/*.sln
+PTEST_Zadanie_probne/PTEST_Zadanie_probne/*.vcxproj
+PTEST_Zadanie_probne/PTEST_Zadanie_probne/*.vcxproj.*
+RNO_DOD_ProsteDodawanie/Build
+RNO_DOD_ProsteDodawanie/*sln
+RNO_DOD_ProsteDodawanie/RNO_DOD_ProsteDodawanie/*.vcxproj
+RNO_DOD_ProsteDodawanie/RNO_DOD_ProsteDodawanie/*.vcxproj.*
+PRIME_T_LiczbyPierwsze/*sln
+PRIME_T_LiczbyPierwsze/PRIME_T_LiczbyPierwsze/*.vcxproj
+PRIME_T_LiczbyPierwsze/PRIME_T_LiczbyPierwsze/*vcxproj.*
